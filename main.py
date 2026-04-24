@@ -1,7 +1,7 @@
 def solution(n):
     result = "1"
 
-    for i in range(1, n):
+    for _ in range(1, n):
         before = result[0]
         cnt = 0
 
@@ -28,8 +28,3 @@ def solution(n):
 
     mid = len(result) // 2
     return int(result[mid - 1:mid + 1])
-
-
-if __name__ == '__main__':
-    print(solution(5))
-    print(solution(8))
