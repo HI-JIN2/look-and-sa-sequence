@@ -22,7 +22,7 @@ def solution(n):
                 before = s
 
         arr.append(str(cnt))
-        arr.append(s)
+        arr.append(before)
 
         result = "".join(arr)
         # print(result)
