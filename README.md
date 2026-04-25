@@ -7,7 +7,7 @@ python - 비교적 문자열을 다루기 쉬워서 선정
 - main.py
 ```
 
-## 실행 방법
+## 실행 방법 (macOS 기준)
 ### 콘솔 입력
 1. 가상환경 활성화
 `source .venv/bin/activate`
