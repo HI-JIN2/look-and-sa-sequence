@@ -1,5 +1,6 @@
 # 개미수열 (Look and Say Sequence)
-
+## 개요
+python - 비교적 문자열을 다루기 쉬워서 선정
 ```
 - tests
   - test_main.py
