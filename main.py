@@ -27,4 +27,9 @@ def solution(n):
         # print(result)
 
     mid = len(result) // 2
-    return int(result[mid - 1:mid + 1])
+    return int(result[mid - 1:mid + 1]) #문제 요구사항: 가운데 두 자리 수를 리턴
+
+
+if __name__ == "__main__":
+    n = int(input().strip())
+    print(solution(n))
