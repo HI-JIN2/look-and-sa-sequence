@@ -7,7 +7,7 @@
 ```
 
 ## 실행 방법
-
+### 콘솔 입력
 1. 가상환경 활성화
 `source .venv/bin/activate`
 2. 의존성 설치
@@ -16,7 +16,7 @@
 3. 콘솔에 n 입력
     <img width="396" height="65" alt="스크린샷 2026-04-25 오후 10 33 54" src="https://github.com/user-attachments/assets/60d12a75-9ad7-490e-b74c-ad8223fb7734" />
 
-## 테스트 실행
+### 테스트 실행
 `pytest`
 
 ## 구현 아이디어
